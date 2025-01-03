@@ -1,0 +1,78 @@
+/* h2 {
+  color: blueviolet;
+}
+
+p {
+  color: darkcyan;
+}
+li {
+  color: aquamarine;
+}
+
+.desc_res {
+  color: cornflowerblue;
+}
+
+#top {
+  color: cadetblue;
+  font-size: 50px;
+}
+
+p {
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+  text-shadow: 2px 3px 4px red;
+  font-family: cursive;
+  font-weight: bolder;
+} */
+
+/* div {
+  background-color: blueviolet;
+  background-image: url(./Mutlimedia/favicon.ico), url(./Mutlimedia/logo.png);
+  background-repeat: no-repeat;
+  background-position: center; 
+  background-size: auto;
+  background-attachment: scroll;
+} */
+
+/* #outer {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+} */
+
+/* #inner {
+  width: 40%;
+  height: 40%;
+  background-color: aqua;
+  border: 2px dashed blue;
+  border-radius: 20px/30px;
+
+  border-width: 2px;
+  border-color: blue;
+  border-style: solid;
+}  */
+
+#div1 {
+  width: 400px;
+  height: 100px;
+  background-color: cyan;
+  margin-bottom: 20px;
+  /* margin: 0px 0px 10px; */
+/* margin-bottom: 20px; */
+/* margin: auto; */
+}
+#div2 {
+  width: 400px;
+  height: 100px;
+  background-color: blueviolet;
+  margin-top: 20px;
+}
+
+#para1 {
+  border: 2px black solid;
+  /* padding-left: 20px 10px; */
+  padding-left: 20px;
+} 
