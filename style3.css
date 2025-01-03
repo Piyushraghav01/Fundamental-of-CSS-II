@@ -1,4 +1,4 @@
-h2 {
+/* h2 {
   color: blueviolet;
 }
 
@@ -16,7 +16,7 @@ li {
 #top {
   color: cadetblue;
   font-size: 50px;
-} 
+}
 
 p {
   text-transform: uppercase;
@@ -25,9 +25,9 @@ p {
   text-shadow: 2px 3px 4px red;
   font-family: cursive;
   font-weight: bolder;
-}
+} */
 
- /* div {
+/* div {
   background-color: blueviolet;
   background-image: url(./Mutlimedia/favicon.ico), url(./Mutlimedia/logo.png);
   background-repeat: no-repeat;
@@ -36,21 +36,38 @@ p {
   background-attachment: scroll;
 } */
 
- #outer {
+/* #outer {
   background-color: red;
   width: 200px;
   height: 200px;
   margin-bottom: 20px;
-}
+} */
 
-#inner {
+/* #inner {
   width: 40%;
   height: 40%;
   background-color: aqua;
   border: 2px dashed blue;
   border-radius: 20px/30px;
 
-  /* border-width: 2px;
+  border-width: 2px;
   border-color: blue;
-  border-style: solid; */
+  border-style: solid;
+}  */
+
+#div1 {
+  width: 400px;
+  height: 100px;
+  background-color: cyan;
+  margin-bottom: 20px;
+}
+#div2 {
+  width: 400px;
+  height: 100px;
+  background-color: blueviolet;
+  margin-top: 20px;
+}
+
+#para1 {
+  border: 2px black solid;
 } 
